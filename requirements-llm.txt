@@ -1,0 +1,9 @@
+python-dotenv
+requests
+google-genai
+
+# Optional:
+# openai
+#
+# Laya local serving is installed separately:
+# pip install "laya[serve]"
